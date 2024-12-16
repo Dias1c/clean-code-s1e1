@@ -49,8 +49,8 @@ button:hover {
 }
 
 @media (max-width:768px) {
-.container-hero { text-align: center;
-}
+  .container-hero { text-align: center;
+  }
 }
 
 .container-main {
