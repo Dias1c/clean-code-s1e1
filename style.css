@@ -42,11 +42,11 @@ button:hover {
   text-align: right;
 }
 
-.container-hero img {
+.container-hero__img {
   width: 100%;
 }
 
-.container-hero .more-info {
+.container-hero__more-info {
   font-family: fantasy, cursive;
 }
 
@@ -138,13 +138,13 @@ button:hover {
   width: 226px
 }
 
-.tasks-list__item__btn-delete img {
+.tasks-list__item__btn-delete__icon {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.tasks-list__item__btn-delete img:hover {
+.tasks-list__item__btn-delete__icon:hover {
   transform: rotateZ(0);
 }
 
