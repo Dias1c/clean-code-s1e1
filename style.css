@@ -159,11 +159,11 @@ button:hover {
   display: none;
 }
 
-.tasks-list__item.edit-mode .tasks-list__item__input-text {
+.tasks-list__item--edit-mode .tasks-list__item__input-text {
   display: inline-block;
   width: 224px;
 }
 
-.tasks-list__item.edit-mode .tasks-list__item__label {
+.tasks-list__item--edit-mode .tasks-list__item__label {
   display: none;
 }
